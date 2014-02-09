@@ -1,6 +1,6 @@
-package com.gdmitchell.hoardmaster.domain.impl;
+package com.gdmitchell.hoardmaster.domain.mana.impl;
 
-import com.gdmitchell.hoardmaster.domain.enums.ManaColor;
+import com.gdmitchell.hoardmaster.domain.mana.ManaColor;
 
 /**
  * Default class for mana (costs, etc.)

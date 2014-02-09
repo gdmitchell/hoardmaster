@@ -1,4 +1,4 @@
-package com.gdmitchell.hoardmaster.domain;
+package com.gdmitchell.hoardmaster.domain.mana;
 
 /**
  * Created with IntelliJ IDEA.

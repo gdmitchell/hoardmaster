@@ -1,4 +1,4 @@
-package com.gdmitchell.hoardmaster.domain.enums;
+package com.gdmitchell.hoardmaster.domain.mana;
 
 /**
  * Enum for mana colors.
